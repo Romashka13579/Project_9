@@ -128,6 +128,9 @@ h3{
     border: 1px solid #C0301C;
     background-color: #C0301C;
     border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 h5{
 font-size: 1.7vh;
@@ -149,6 +152,9 @@ margin-bottom: 0vh;
     justify-content: center;
     align-items: center;
     font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .red{
     width: 100%;
@@ -184,7 +190,21 @@ h6{
     color: white;
     font-weight: normal;
 }
-.fab {
+.fa-twitter {
     color: white;
     font-size: 2vh;
+}
+.fa-angular
+{
+    color: white;
+    font-size: 7vh;
+}
+.fas
+{
+    color: #C0301C;
+    font-size: 7vh;
+}
+.fa-times-circle{
+    color: #C0301C;
+    font-size: 6.5vh;
 }
